@@ -116,7 +116,33 @@
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
 .awayButtons__touchdown,
-.awayButtons__fieldGoal {
-  margin: 1rem;
+.awayButtons__fieldGoal,
+.quarter_change {
+  margin: 4rem;
   border-radius: 4px;
+}
+
+.quarter_box {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.down__button {
+  margin-left: 25px;
+}
+.buttonsRow {
+  display: flex;
+}
+
+.bottom__buttons {
+  margin-right: 51px;
+}
+
+.buttons__right {
+  margin-left: 30px;
+}
+
+.last__button {
+  margin-left: 105px;
 }
